@@ -13,3 +13,5 @@
 - 5/10: validation 케이스 투자 코드
 - 5/11: cosine distance baseline
 - 5/12: cosine 관련 5분봉 실험, 결과 비교
+- 5/21: buy_quantity 결정을 위한 xgboost, randomforest model 사용
+-
